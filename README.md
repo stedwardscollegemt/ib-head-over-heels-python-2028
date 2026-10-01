@@ -25,7 +25,7 @@ Each notebook includes:
 
 ---
 
-## 📚 Notebook Roadmap (Term 1)
+## 📚 Notebook Roadmap (Year 12)
 
 | Notebook | Main Focus | IB Outcomes | Book Chapter |
 |----------|-------------|-------------|---------------|
@@ -36,8 +36,7 @@ Each notebook includes:
 | **NB4** | Loops & Debugging | B2.3.3, B2.1.4 | HFP Ch. 2 |
 | **NB5** | Lists | B2.1.3, B2.2.2 | HFP Ch. 2 |
 | **NB7** | Functions + Modules | B2.3.4 | HFP Ch. 3 |
-
-*More notebooks will continue into file handling, functions, static vs dynamic data structures, searching/sorting, etc.*
+| **NB8** | File processing | B2.5.1 | n.a. |
 
 ---
 
